@@ -97,5 +97,5 @@ Project Methodology:
        Out of all the other models, the XG Boost Model which used the downsampling technique generated the best F1 score. For this task, I concluded that
        downsampling was more effictive and generated better F1 scores than: leaving the class imbalance as is, adjusting the threhold, or upsampling. The class imbalance of:
        appoximately 80:20, with the 0 class being the majority class needed to be addressed in order to generate the most accurate results from a model. The Downsampled XG Boost
-       model had the highest F1 score of all the other models and also had a good AUC-ROC score and a good area under the curve according to ROC Curve chart.
+       model had the highest F1 score of all the other models and also had a good AUC-ROC score and a good area under the curve result according to ROC Curve chart.
  
