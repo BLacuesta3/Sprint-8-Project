@@ -65,7 +65,7 @@ Project Methodology:
    
    Model Results:
 
-   Logistic Regession Model (Without Addressing Class Imbalance) Training Set Accuracy Score: 0.80
-   Logistic Regession Model (Without Addressing Class Imbalance) Validiation Set Accuracy Score: 0.80
-   Logistic Regession Model (Without Addressing Class Imbalance) F1 Score: 0.30
+   * Logistic Regession Model (Without Addressing Class Imbalance) Training Set Accuracy Score: 0.80
+   * Logistic Regession Model (Without Addressing Class Imbalance) Validiation Set Accuracy Score: 0.80
+   * Logistic Regession Model (Without Addressing Class Imbalance) F1 Score: 0.30
 
