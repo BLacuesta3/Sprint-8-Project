@@ -33,6 +33,10 @@ Project Libraries Used:
 
 * numpy
 
+* xgboost 
+
+* sklearn.naive_bayes (function: GaussianNB())
+
 Models Included In The Project:
 
 * Logistic Regression
@@ -57,7 +61,11 @@ Project Methodology:
 
 5) Expolartory Data Anaysis (EDA) For Displaying Class Imbalance
 
-6) 
-import xgboost as xgb
+6) Model Training And Predctions Without Addressing Class Imbalance
+   
+   Model Results:
 
-from sklearn.naive_bayes import GaussianNB
+   Logistic Regession Model (Without Addressing Class Imbalance) Training Set Accuracy Score: 0.80
+   Logistic Regession Model (Without Addressing Class Imbalance) Validiation Set Accuracy Score: 0.80
+   Logistic Regession Model (Without Addressing Class Imbalance) F1 Score: 0.30
+
