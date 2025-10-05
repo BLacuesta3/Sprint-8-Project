@@ -33,7 +33,7 @@ Project Libraries Used:
 
 * numpy
 
-Models Included In Project:
+Models Included In The Project:
 
 * Logistic Regression
 
