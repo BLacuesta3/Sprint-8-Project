@@ -11,6 +11,7 @@ We need to predict whether a customer will leave the bank soon. You have the dat
 Build a model with the maximum possible F1 score. To pass the project, you need an F1 score of at least 0.59. Check the F1 for the test set.
 Additionally, measure the AUC-ROC metric and compare it with the F1.
 
+
 Project Libraries Used:
 
 * pandas
@@ -48,6 +49,7 @@ Models Included In The Project:
 * XG Boost
 
 * Naive Bayes
+
 
 Project Methodology:
 
