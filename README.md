@@ -10,3 +10,54 @@ The bankers figured out it’s cheaper to save the existing customers rather tha
 We need to predict whether a customer will leave the bank soon. You have the data on clients’ past behavior and termination of contracts with the bank.
 Build a model with the maximum possible F1 score. To pass the project, you need an F1 score of at least 0.59. Check the F1 for the test set.
 Additionally, measure the AUC-ROC metric and compare it with the F1.
+
+Project Libraries Used:
+
+* pandas
+
+* sklearn.model_selection (functions: train_test_split(), RandomizedSearchCV())
+
+* sklearn.linear_model (function: LogisticRegression())
+
+* sklearn.model_selection (funtion: GridSearchCV())
+
+* sklearn.metrics (functions: confusion_matrix(), f1_score(), precision_score(), recall_score(), classification_report(), roc_auc_score(), roc_curve())
+
+* sklearn.tree (function: DecisionTreeClassifier())
+
+* matplotlib.pyplot
+
+* sklearn.utils (function: shuffle())
+
+* sklearn.ensemble (function:RandomForestClassifier())
+
+* numpy
+
+Models Included In Project:
+
+* Logistic Regression
+
+* Decision Tree Classifier
+
+* Random Forest Classifier
+
+* XG Boost
+
+* Naive Bayes
+
+Project Methodology:
+
+1) Importing The Necessary Libraries
+
+2) Data Cleaning/ Data Preprocessing
+
+3) Feature Encoding (One-hot Encoding Method Used For Encoding Categorical Features)
+
+4) Data Splitting
+
+5) Expolartory Data Anaysis (EDA) For Displaying Class Imbalance
+
+6) 
+import xgboost as xgb
+
+from sklearn.naive_bayes import GaussianNB
