@@ -67,12 +67,13 @@ Project Methodology:
    
    Model Results:
 
+   1) Logistic Regression Model (Without Addressing Class Imbalance)
    * Logistic Regession Model (Without Addressing Class Imbalance) Training Set Accuracy Score: 0.80
    * Logistic Regession Model (Without Addressing Class Imbalance) Validiation Set Accuracy Score: 0.80
    * Logistic Regession Model (Without Addressing Class Imbalance) F1 Score: 0.30
 
 
-
+   2) Decision Tree Classifier Model (Without Addressing Class Imbalance)
    * Decision Tree Classifier Model (Without Addressing Class Imbalance) Training Set Accuracy Score: 0.85
    * Decision Tree Classifier Model (Without Addressing Class Imbalance) Validiation Set Accuracy Score: 0.84
    * Decision Tree Classifier Model (Without Addressing Class Imbalance) F1 Score: 0.48
@@ -80,19 +81,19 @@ Project Methodology:
 
 
 
-
+   3) Random Forest Classifier Model (Without Addressing Class Imbalance)
    * Random Forest Classifier Model (Without Addressing Class Imbalance) Training Set Accuracy Score: 0.87
    * Random Forest Classifier Model (Without Addressing Class Imbalance) Validiation Set Accuracy Score: 0.85
    * Random Forest Classifier Model (Without Addressing Class Imbalance) F1 Score: 0.53
   
 
-
+   4) XG Boost Model (Without Addressing Class Imbalance)
    * XG Boost Model (Without Addressing Class Imbalance) Training Set Accuracy Score: 0.88
    * XG Boost Model (Without Addressing Class Imbalance) Validiation Set Accuracy Score: 0.86
    * XG Boost Model (Without Addressing Class Imbalance) F1 Score: 0.61
   
 
-
+   5) Naive Bayes Model (Without Addressing Class Imbalance)
    * Naive Bayes Model (Without Addressing Class Imbalance) Training Set Accuracy Score: 0.77
    * Naive Bayes Model (Without Addressing Class Imbalance) Validiation Set Accuracy Score: 0.77
    * Naive Bayes Model (Without Addressing Class Imbalance) F1 Score: 0.08
